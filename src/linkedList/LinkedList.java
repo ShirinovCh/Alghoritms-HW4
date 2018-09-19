@@ -16,7 +16,6 @@ public class LinkedList {
         newLink.next = first;
         first = newLink;
     }
-
     public Link delete() {
         Link temp = first;
         first = first.next;

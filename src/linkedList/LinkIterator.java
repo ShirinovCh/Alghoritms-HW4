@@ -56,7 +56,6 @@ public class LinkIterator {
             current = newLink;
         }
     }
-
     public String deleteCurrent() {
         String name = current.name;
         if (previous == null) {

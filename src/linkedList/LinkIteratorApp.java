@@ -7,6 +7,5 @@ public class LinkIteratorApp {
 
         iter.insertAfter("Artem",22);
         iter.insertBefore("Denis",21);
-
     }
 }

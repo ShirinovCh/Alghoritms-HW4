@@ -10,7 +10,6 @@ public class Link {
         this.name = name;
         this.age = age;
     }
-
     public void display() {
         System.out.println("Name " + this.name + " , age " + this.age);
     }
