@@ -8,6 +8,7 @@ public class ListApp {
         list.insertFirst("Анастасия", 20);
         list.insertLast("Ярослав", 31);
         System.out.println("Выводим список людей");
+        
         list.display();
         System.out.println("Удаляем человека");
         list.delete();

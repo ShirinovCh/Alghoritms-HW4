@@ -55,7 +55,6 @@ public class LinkedList {
         }
         return current;
     }
-
     public Link delete(String name) {
         Link current = first;
         Link previous = first;
